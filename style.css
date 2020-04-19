@@ -1,15 +1,15 @@
 h1 {
-  color: palevioletred;
+  color: rgb(224, 79, 127);
   text-size: 50px;
 }
 
 .title {
-  color: pink;
+  color: rgb(214, 121, 136);
   display: inline-block;
   width: 5em;
 }
 
 .content {
-  color: blue;
+  color: black;
   display: inline-block;
 }
