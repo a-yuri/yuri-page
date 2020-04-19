@@ -13,3 +13,12 @@ h1 {
   color: black;
   display: inline-block;
 }
+.egg {
+  color: rgb(143, 233, 134);
+}
+.meat {
+  color: red;
+}
+.fish {
+  color: skyblue;
+}
