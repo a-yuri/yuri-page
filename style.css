@@ -1,0 +1,15 @@
+h1 {
+  color: palevioletred;
+  text-size: 50px;
+}
+
+.title {
+  color: pink;
+  display: inline-block;
+  width: 5em;
+}
+
+.content {
+  color: blue;
+  display: inline-block;
+}
